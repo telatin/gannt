@@ -10,6 +10,8 @@ a Javascript library for interactive plots.
 * [R script for PDF/PNG output](r-plot)
 * [Python script for HTML output](html-plot)
 
+![Example](r-plot/gannt.png)
+
 ### See also
 
 * [R Gannt charts](https://jtr13.github.io/cc19/gantt-charts.html)

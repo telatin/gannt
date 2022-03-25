@@ -16,10 +16,13 @@ month of the project (see `--start-date`).
 
 ### Output
 
-[Example](gannt.html)
+[Example](https://jsfiddle.net/bq7ds2h0/)
 
 ### Usage
 
+It's important to supply the appropriate start date (e.g. 2023-01-01).
+
+```text
 usage: gannter.py [-h] -i INPUT [-o OUTPUT] [-s START_DATE] [--deps]
 
 Read an excel file and produces an HTML gannt chart
@@ -33,3 +36,4 @@ optional arguments:
   -s START_DATE, --start-date START_DATE
                         project start date
   --deps                Show dependencies
+```

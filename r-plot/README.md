@@ -26,6 +26,8 @@ The script produces a PDF and a PNG output:
 * [PDF example](gannt.pdf)
 * [PNG image](gannt.png)
 
+![Example PNG](gannt.png)
+
 ### Usage
 
 1. Install [ganttrify](https://github.com/giocomai/ganttrify)
@@ -33,4 +35,4 @@ The script produces a PDF and a PNG output:
 # install.packages("remotes")
 remotes::install_github("giocomai/ganttrify")
 ```
-2. Use the `[gannt.R](gannt.R)` script.
+2. Use the `gannt.R` script.
