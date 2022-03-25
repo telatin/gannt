@@ -7,6 +7,8 @@ Uses [ganttrify](https://github.com/giocomai/ganttrify), an R
 library by Giorgio Comai, and [Google charts](https://developers.google.com/chart/interactive/docs/gallery/ganttchart),
 a Javascript library for interactive plots.
 
+* [R script for PDF/PNG output](r-plot)
+* [Python script for HTML output](html-plot)
 
 ### See also
 
