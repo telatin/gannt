@@ -16,7 +16,7 @@ Example R plot:
 
 ![Example](r-plot/gannt.png)
 
-Example HTML plot: [online demo](https://jsfiddle.net/3khzytoL/)
+Example HTML plot: [online demo](https://jsfiddle.net/h86Lz94p/)
 
 
 
