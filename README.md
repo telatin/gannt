@@ -7,10 +7,18 @@ Uses [ganttrify](https://github.com/giocomai/ganttrify), an R
 library by Giorgio Comai, and [Google charts](https://developers.google.com/chart/interactive/docs/gallery/ganttchart),
 a Javascript library for interactive plots.
 
-* [R script for PDF/PNG output](r-plot)
-* [Python script for HTML output](html-plot)
+
+* Stand-alone [R script for PDF/PNG output](r-plot)
+* Stand-alone [Python script for HTML output](html-plot)
+* Integrated package **coming soon**
+
+Example R plot:
 
 ![Example](r-plot/gannt.png)
+
+Example HTML plot: [online demo](https://jsfiddle.net/3khzytoL/)
+
+
 
 ### See also
 
