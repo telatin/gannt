@@ -1,11 +1,13 @@
 # Gannt charts from Excel tables
 
-Using R/Python to plot Gannt charts starting from Excel tables
-(to make it easier for collaborators to feed us data).
+Some resources to plot Gannt charts. I made the scripts 
+able to start from Excel tables (to make it easier
+for collaborators to feed me data, as inevitably there will be last minutes updates :) ).
 
-Uses [ganttrify](https://github.com/giocomai/ganttrify), an R
-library by Giorgio Comai, and [Google charts](https://developers.google.com/chart/interactive/docs/gallery/ganttchart),
-a Javascript library for interactive plots.
+A first approach [ganttrify](https://github.com/giocomai/ganttrify),
+an R library by Giorgio Comai, 
+and a second example uses [Google charts](https://developers.google.com/chart/interactive/docs/gallery/ganttchart),
+a Javascript library for interactive plots. They both start from basically the same Excel template.
 
 
 * Stand-alone [R script for PDF/PNG output](r-plot)
