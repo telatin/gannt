@@ -1,4 +1,4 @@
-# Google Gannt Chart
+# R Gannt Chart with ganttrify
 
 ### Input
 
